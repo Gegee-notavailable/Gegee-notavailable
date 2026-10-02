@@ -1,16 +1,21 @@
-## Hi there 👋
+### Hi there 👋 I'm Nattanicha Chimruang
 
-<!--
-**Gegee-notavailable/Gegee-notavailable** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 💻 I'm a developer / student.
+- 🌱 I'm currently learning new technologies.
+- 📫 How to reach me: [ใส่อีเมลหรือช่องทางติดต่อของคุณที่นี่]
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🏆 Certificates & Achievements
+
+นี่คือเกียรติบัตรและผลงานบางส่วนของผมครับ:
+
+<details>
+<summary><b>📂 คลิกเพื่อดูรายการเกียรติบัตรทั้งหมด</b></summary>
+
+| ชื่อเกียรติบัตร / รางวัล | รายละเอียด | ลิงก์ / หลักฐาน |
+| :--- | :--- | :--- |
+| **ชื่อเกียรติบัตรใบที่ 1** | รายละเอียดสั้นๆ เช่น อบรมหลักสูตร... | [ดูเกียรติบัตร](#) |
+| **ชื่อเกียรติบัตรใบที่ 2** | รายละเอียดสั้นๆ เช่น การแข่งขัน... | [ดูเกียรติบัตร](#) |
+
+</details>
