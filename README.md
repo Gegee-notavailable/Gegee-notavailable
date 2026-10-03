@@ -2,7 +2,7 @@
 
 - 💻 I'm a developer / student.
 - 🌱 I'm currently learning new technologies.
-- 📫 How to reach me: [ใส่อีเมลหรือช่องทางติดต่อของคุณที่นี่]
+- 📫 How to reach me: [nattanicha.chimruang48@gmail.com]
 
 ---
 
