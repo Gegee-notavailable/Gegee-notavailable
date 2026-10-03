@@ -8,14 +8,14 @@
 
 ### 🏆 Certificates & Achievements
 
-นี่คือเกียรติบัตรและผลงานบางส่วนของผมครับ:
+Here are some of my certificates and achievements:
 
 <details>
-<summary><b>📂 คลิกเพื่อดูรายการเกียรติบัตรทั้งหมด</b></summary>
+<summary><b>📂 Click to view all certificates</b></summary>
 
-| ชื่อเกียรติบัตร / รางวัล | รายละเอียด | ลิงก์ / หลักฐาน |
+| Certificate | Description | Link / Evidence |
 | :--- | :--- | :--- |
-| **ชื่อเกียรติบัตรใบที่ 1** | รายละเอียดสั้นๆ เช่น อบรมหลักสูตร... | [📄 ดูไฟล์ PDF](Iccubea_certificate.pdf) <br> [🔗 ลิงก์เอกสารตีพิมพ์](https://ieeexplore.ieee.org/document/11701960) <br> [🔗 ลิงก์รวมเอกสารวิจัย](https://drive.google.com/drive/folders/1qowGX0zw9yxfhtDT133xSzWxsxU0Ju8S) <br> [💻 GitHub Repository](https://github.com/Gegee-notavailable/catch_leopards_expo) |
-| **ชื่อเกียรติบัตรใบที่ 2** | รายละเอียดสั้นๆ เช่น การแข่งขัน... | [📄 ดูไฟล์ PDF](EEC.pdf) |
+| **Certificate Name 1** | Short description, such as course training...... | [📄 View PDF file](Iccubea_certificate.pdf) <br> [🔗 Publication link](https://ieeexplore.ieee.org/document/11701960) <br> [🔗 Research collection link](https://drive.google.com/drive/folders/1qowGX0zw9yxfhtDT133xSzWxsxU0Ju8S) <br> [💻 GitHub Repository](https://github.com/Gegee-notavailable/catch_leopards_expo) |
+| **Certificate Name 2** | Short description, such as course training...... | [📄 View PDF file](EEC.pdf) |
 
 </details>
